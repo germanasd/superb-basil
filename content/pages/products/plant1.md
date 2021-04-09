@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/pleasant-neptune.jpeg
+default_thumbnail_image: images/knowledgeable-crane.jpeg
 default_original_image: images/photo5442813992260186845.jpeg
 featured: true
 order: 1
