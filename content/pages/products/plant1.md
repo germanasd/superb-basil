@@ -2,7 +2,7 @@
 layout: product
 id: '1'
 price: '199'
-title: '"Ирисы" 2017'
+title: '"She 1", 2020.Холст 50х50, масло.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
