@@ -2,7 +2,7 @@
 layout: product
 id: '9'
 price: '400.00'
-title: Fusce sagittis
+title: '"Жираф" холст 40/50, масло'
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/_DSC1479 (4).jpeg
 default_original_image: images/plant9-lg.jpg
