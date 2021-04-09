@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/photo5442813992260186847.jpeg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # Дизайнерские картины для интерьера.
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Магазин живописи «Art Shop 7Chudes» рад представить вашему вниманию
+      авторские работы «Арт студии 7 Чудес»
     actions:
       - title: See all items
         url: /store
