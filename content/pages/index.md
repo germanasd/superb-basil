@@ -8,7 +8,7 @@ sections:
     background_image: images/photo5442813992260186847.jpeg
     background_image_opacity: 65
     content: >
-      ## Дизайнерские картины для интерьера.
+      # Дизайнерские картины для интерьера
 
 
       Магазин живописи «Art Shop 7Chudes» рад представить вашему вниманию
