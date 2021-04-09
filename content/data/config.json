@@ -16,7 +16,7 @@
         {
             "title": "Store",
             "url": "/store",
-            "style": "secondary"
+            "style": "primary"
         },
         {
             "title": "About",
