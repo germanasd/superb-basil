@@ -5,7 +5,7 @@ price: '400.00'
 title: '"Жираф" холст 40/50, масло'
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/_DSC1479 (4).jpeg
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/_DSC1479 (4).jpeg
 featured: true
 order: 9
 category: content/pages/category/cactuses.md
