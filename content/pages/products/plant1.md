@@ -1,14 +1,14 @@
 ---
 layout: product
 id: '1'
-price: '49.40'
-title: Nulla suscipit
+price: '199'
+title: '"She 1", 2020.Холст 50х50, масло.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_thumbnail_image: images/plant1.jpg
-default_original_image: images/plant1-lg.jpg
+default_thumbnail_image: images/knowledgeable-crane.jpeg
+default_original_image: images/photo5442813992260186845.jpeg
 featured: true
 order: 1
 category: content/pages/category/bigplants.md

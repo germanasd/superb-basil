@@ -1,11 +1,11 @@
 ---
 layout: product
 id: '8'
-price: '50.00'
-title: Fusce sed
+price: '189.00'
+title: '"Квітка - душа" полотно 40/50, акрил'
 description: In cursus sagittis eros non congue.
-default_thumbnail_image: images/plant8.jpg
-default_original_image: images/plant8-lg.jpg
+default_thumbnail_image: images/photo5393555948645232470.jpeg
+default_original_image: images/photo5393555948645232470.jpeg
 order: 8
 category: content/pages/category/summer.md
 ---

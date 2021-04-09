@@ -2,10 +2,10 @@
 layout: product
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: '"Ирисы", 2017. Холст 60х60, масло.'
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
-default_original_image: images/plant3-lg.jpg
+default_thumbnail_image: images/photo5442813992260186858.jpeg
+default_original_image: images/photo5442813992260186858.jpeg
 featured: true
 order: 3
 category: content/pages/category/cactuses.md
