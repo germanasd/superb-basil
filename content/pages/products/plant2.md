@@ -2,7 +2,7 @@
 layout: product
 id: '2'
 price: '99.00'
-title: Integer porta
+title: '"Тайна луны" холст 40/50, масло, мастихин'
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/IMG_20200326_122109_741_2 (2).jpeg
 default_original_image: images/plant2-lg.jpg
