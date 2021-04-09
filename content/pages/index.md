@@ -16,7 +16,7 @@ sections:
     actions:
       - url: /store
         arrow: true
-        style: primary
+        style: secondary
         title: Смотреть каталог
   - type: featured_products_section
     section_id: best_sellers_section
