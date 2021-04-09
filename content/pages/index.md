@@ -14,8 +14,7 @@ sections:
       Магазин живописи «Art Shop 7Chudes» рад представить вашему вниманию
       авторские работы «Арт студии 7 Чудес»
     actions:
-      - title: See all items
-        url: /store
+      - url: /store
         arrow: true
         style: primary
   - type: featured_products_section
