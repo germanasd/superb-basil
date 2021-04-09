@@ -5,7 +5,7 @@ price: '100.00'
 title: '"Ностальгія за морем", 2020.Полотно 85х45, олія.'
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/photo5442813992260186862.jpeg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/photo5442813992260186862.jpeg
 order: 6
 category: content/pages/category/bigplants.md
 ---
