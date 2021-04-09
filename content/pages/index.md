@@ -17,7 +17,7 @@ sections:
       - url: /store
         arrow: true
         style: primary
-        title: смотреть все
+        title: перейти в каталог
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
