@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Art Shop 7Chudes
 white_header: true
 sections:
   - type: hero_section
