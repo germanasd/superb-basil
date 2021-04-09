@@ -4,7 +4,7 @@ id: '7'
 price: '18.90'
 title: Sed consectetur
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/photo5442813992260186862.jpeg
+default_thumbnail_image: images/photo5451957586791345931.jpeg
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: content/pages/category/bigplants.md
