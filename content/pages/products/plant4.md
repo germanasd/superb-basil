@@ -5,7 +5,7 @@ price: '190.99'
 title: '"Морской прибой" холст на картоне 50/60, масло'
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/_DSC1503 (3).jpeg
-default_original_image: images/plant4-lg.jpg
+default_original_image: images/_DSC1503 (3).jpeg
 order: 4
 category: content/pages/category/cactuses.md
 ---
