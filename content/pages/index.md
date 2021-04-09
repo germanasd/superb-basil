@@ -15,7 +15,7 @@ sections:
       авторские работы «Арт студии 7 Чудес»
     actions:
       - url: /store
-        arrow: false
+        arrow: true
         style: secondary
         title: Смотреть каталог
   - type: featured_products_section
