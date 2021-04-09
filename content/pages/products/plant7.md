@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '7'
-price: '18.90'
+price: '180.90'
 title: '"Вечір почнеться з заходу", 2020.Полотно 50х50, масло'
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/photo5451957586791345931.jpeg
