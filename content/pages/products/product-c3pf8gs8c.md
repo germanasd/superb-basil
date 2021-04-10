@@ -2,7 +2,7 @@
 id: '1'
 title: '«Она 2», 2020. Холст 70х60, масло.'
 description: lorem-ipsum
-price: lorem-ipsum
+price: '5100'
 order: 0
 featured: false
 layout: product
