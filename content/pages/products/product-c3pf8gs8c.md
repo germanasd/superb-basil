@@ -10,4 +10,3 @@ default_thumbnail_image: images/IMG_20210409_222944.jpg
 default_original_image: images/PicsArt_03-20-10.34.27.jpg
 category: content/pages/category/bigplants.md
 ---
-![](/images/PicsArt\_03-20-10.24.44.jpg)   ![](/images/neat-triceratops.jpg)
