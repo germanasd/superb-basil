@@ -14,6 +14,7 @@ sections:
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
       - content/pages/products/18.md
+      - content/pages/products/13.md
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
