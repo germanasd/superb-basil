@@ -20,7 +20,7 @@ sections:
         title: Смотреть каталог
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Бес
+    title: Бест
     icon: true
     light_title: true
     featured_products:
