@@ -6,7 +6,7 @@ title: '"Вечір почнеться з заходу", 2020.Полотно 50�
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/photo5451957586791345931.jpeg
 default_original_image: images/pink-giraffe.jpeg
-order: 7
+order: 1
 category: content/pages/category/bigplants.md
 ---
 

@@ -8,6 +8,7 @@ default_thumbnail_image: images/IMG_20200326_122109_741_2 (2).jpeg
 default_original_image: images/IMG_20200326_122109_741_2 (2).jpeg
 order: 2
 category: content/pages/category/cactuses.md
+featured: true
 ---
 
 # Integer porta

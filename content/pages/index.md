@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Art Shop 7Chudes
 white_header: true
 sections:
   - type: hero_section
@@ -16,11 +16,11 @@ sections:
     actions:
       - url: /store
         arrow: true
-        style: primary
+        style: secondary
         title: Смотреть каталог
   - type: featured_products_section
     section_id: best_sellers_section
-    title: Best sellers
+    title: Бестселлеры
     icon: true
     light_title: true
     featured_products:
@@ -28,6 +28,7 @@ sections:
       - content/pages/products/plant3.md
       - content/pages/products/plant5.md
       - content/pages/products/plant7.md
+      - content/pages/products/product-c3pf8gs8c.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:

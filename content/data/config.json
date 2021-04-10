@@ -3,20 +3,21 @@
     "path_prefix": "/",
     "favicon": "images/favicon.png",
     "logo_dark": "images/logo.svg",
-    "logo_light": "images/logo-white.svg",
+    "logo_light": "images/logo.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "images/knowledgeable-crane.jpeg",
     "bg_image_primary_opacity": 60,
     "bg_image_secondary": "/images/leaf-light-grey.svg",
     "bg_image_product": "/images/leaf.svg",
-    "snipcart_api_key": "",
-    "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
-    "palette": "green",
+    "snipcart_api_key": "ZmU3MDlkZTUtYzkyNi00MWFkLTk5MTMtYThlNGFiNDczNTQxNjM3NTM2NzI2NzMzNzY1NjM3",
+    "footer_text": "Copyright 2021 ArtShop7Chdes. Все права защищены.",
+    "palette": "yellow",
     "main_menu": [
         {
             "title": "Store",
             "url": "/store",
-            "style": "link"
+            "style": "link",
+            "arrow": false
         },
         {
             "title": "About",
