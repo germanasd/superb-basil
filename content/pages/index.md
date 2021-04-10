@@ -31,6 +31,7 @@ sections:
       - content/pages/products/product-c3pf8gs8c.md
       - content/pages/products/plant2.md
       - content/pages/products/plant4.md
+      - content/pages/products/plant7.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
