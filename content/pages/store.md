@@ -24,4 +24,5 @@ sections:
       url: /store
       style: secondary
       arrow: true
+white_header: true
 ---
