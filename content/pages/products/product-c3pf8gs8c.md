@@ -1,6 +1,6 @@
 ---
 id: '1'
-title: lorem-ipsum
+title: '«Она 2», 2020. Холст 70х60, масло.'
 description: lorem-ipsum
 price: lorem-ipsum
 order: 0
