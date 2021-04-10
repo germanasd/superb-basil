@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "favicon": "images/favicon.png",
     "logo_dark": "images/logo.svg",
-    "logo_light": "images/photo_2021-04-10 21.21.08.jpeg",
+    "logo_light": "images/logo.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "images/knowledgeable-crane.jpeg",
     "bg_image_primary_opacity": 60,
