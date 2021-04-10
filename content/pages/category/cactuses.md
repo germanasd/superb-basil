@@ -1,5 +1,5 @@
 ---
-title: масло
+title: мастихин
 layout: category
 order: 2
 ---
