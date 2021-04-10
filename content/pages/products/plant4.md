@@ -8,6 +8,7 @@ default_thumbnail_image: images/_DSC1503 (3).jpeg
 default_original_image: images/_DSC1503 (3).jpeg
 order: 4
 category: content/pages/category/cactuses.md
+featured: true
 ---
 
 # Cras molestie
