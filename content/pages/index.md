@@ -35,6 +35,7 @@ sections:
       - content/pages/products/plant8.md
       - content/pages/products/13.md
       - content/pages/products/14.md
+      - content/pages/products/23.md
   - type: featured_categories_section
     section_id: featured_categories_section
     featured_categories:
