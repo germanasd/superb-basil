@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Акрил
 order: 0
 layout: category
 ---
