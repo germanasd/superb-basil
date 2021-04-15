@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: И
 order: 0
 layout: category
 ---
