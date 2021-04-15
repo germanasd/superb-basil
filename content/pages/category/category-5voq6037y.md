@@ -1,5 +1,5 @@
 ---
 title: Интерьерная живопись
-order: 0
+order: 5
 layout: category
 ---
