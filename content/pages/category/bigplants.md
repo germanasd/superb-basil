@@ -1,5 +1,5 @@
 ---
 layout: category
 order: 1
-title: Масло/олія
+title: Масло/Олія
 ---
