@@ -1,5 +1,5 @@
 ---
 title: Батик
-order: 0
+order: 3
 layout: category
 ---
