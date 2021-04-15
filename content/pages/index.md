@@ -41,6 +41,7 @@ sections:
     featured_categories:
       - content/pages/category/bigplants.md
       - content/pages/category/cactuses.md
+      - content/pages/category/category-sxcle4swo.md
   - type: testimonials_section
     section_id: testimonials_section
     title: Testimonials
