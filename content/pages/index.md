@@ -45,7 +45,7 @@ sections:
       - content/pages/category/category-5voq6037y.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Отз
+    title: Отзывы
     testimonials:
       - author:
           name: John Dope
