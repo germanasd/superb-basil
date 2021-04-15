@@ -41,9 +41,11 @@ sections:
     featured_categories:
       - content/pages/category/bigplants.md
       - content/pages/category/cactuses.md
+      - content/pages/category/category-7w41wejwl.md
+      - content/pages/category/category-5voq6037y.md
   - type: testimonials_section
     section_id: testimonials_section
-    title: Testimonials
+    title: Отзывы
     testimonials:
       - author:
           name: John Dope
