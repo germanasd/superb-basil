@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '5'
+price: '5000'
 title: '"She 1", 2020.Холст 50х50, масло.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
