@@ -16,7 +16,7 @@
             "title": "Магазин",
             "url": "/store",
             "style": "link",
-            "arrow": false
+            "arrow": true
         },
         {
             "title": "Обо Мне",
